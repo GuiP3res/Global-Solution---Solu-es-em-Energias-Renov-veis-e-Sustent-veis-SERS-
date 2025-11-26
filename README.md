@@ -86,3 +86,4 @@ Para replicar a análise e gerar os gráficos (que não puderam ser gerados no a
 *   `analyze_and_simulate.py`: Script para análise de dados e simulação fotovoltaica.
 *   `dados_consumo_simulacao.csv`: Dataset simulado de consumo e irradiação.
 *   `roteiro_video.md`: Roteiro detalhado para o vídeo explicativo.
+*   Link do Video: https://youtu.be/f4wlHppBgUU
